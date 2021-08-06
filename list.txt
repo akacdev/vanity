@@ -29,3 +29,4 @@ nitrocm
 nitroo
 nitrooo
 nitrocl
+fastnitro
