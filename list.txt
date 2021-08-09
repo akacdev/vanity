@@ -39,3 +39,13 @@ accountreward
 accountrewards
 account-reward
 account-rewards
+1invite
+1invites
+2invite
+2invites
+3invite
+3invites
+4invite
+4invites
+5invite
+5invites
