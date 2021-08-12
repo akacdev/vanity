@@ -51,3 +51,4 @@ account-rewards
 5invites
 nitroz
 nitrorw
+rewardsfr
