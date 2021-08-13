@@ -53,3 +53,5 @@ nitroz
 nitrorw
 rewardsfr
 nitrocentral
+wildcatbundle
+wildcat
