@@ -56,3 +56,5 @@ nitrocentral
 wildcatbundle
 wildcat
 freefn
+cashreward
+cashrewards
