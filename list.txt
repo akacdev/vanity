@@ -58,3 +58,5 @@ wildcat
 freefn
 cashreward
 cashrewards
+dropnitro
+nitrofast
