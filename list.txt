@@ -61,3 +61,5 @@ cashrewards
 dropnitro
 nitrofast
 members
+nitroclassic
+nitrogames
