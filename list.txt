@@ -63,3 +63,8 @@ nitrofast
 members
 nitroclassic
 nitrogames
+nitroland
+nitrosland
+boostland
+boostsland
+nitrobase
