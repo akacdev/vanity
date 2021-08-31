@@ -69,3 +69,9 @@ boostland
 boostsland
 nitrobase
 birthdayrw
+nitroevent
+nitrosevent
+nitroevents
+nitrosevents
+robuxevent
+robuxevents
