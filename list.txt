@@ -88,5 +88,8 @@ legitop
 nitroop
 robuxop
 inv
+2inv
+2invs
 gifting
 nitroforfree
+free-discord-nitro
