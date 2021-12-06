@@ -96,3 +96,6 @@ free-discord-nitro
 royalnitro
 royalnitros
 merry
+factory
+nitrofactory
+livenitro
