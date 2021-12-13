@@ -90,6 +90,13 @@ robuxop
 inv
 2inv
 2invs
+2invites
+3inv
+3invs
+3invites
+4inv
+4invs
+4invites
 gifting
 nitroforfree
 free-discord-nitro
