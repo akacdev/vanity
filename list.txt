@@ -113,3 +113,12 @@ jinglebells
 nitro-free
 nitrorw
 wumpusgifts
+
+serverboost
+serverboosts
+nitroboost
+boosters
+cheapboost
+dboost
+dboosts
+cheapboosts
