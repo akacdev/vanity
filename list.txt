@@ -134,3 +134,6 @@ nitrogift
 nitrogifts
 nitrosgift
 nitrosgifts
+
+giftcard
+giftcards
