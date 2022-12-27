@@ -1,8 +1,8 @@
 from tempfile import NamedTemporaryFile
 from shutil import move
 
-input_file = "input.txt"
-output_file = "output.txt"
+input_file = "input.txt" # add your words each on a new lone into this file input.txt --- make sure there is no spaces in front or at the end of your words ---
+output_file = "output.txt" # this file will have all the doubles removed
 
 seen_lines = set()
 
