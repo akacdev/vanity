@@ -6,7 +6,7 @@
 
 Where does this list come from?
 
-This lists content comes from varouise indoviduals, Community Member and Internet Safety & Security Centers.
+This lists content comes from various individuals, Community Member and Internet Safety & Security Centers.
 
 ## Honerible Mentions
 
@@ -14,4 +14,4 @@ This lists content comes from varouise indoviduals, Community Member and Interne
 - [Dangercord Community Programe](https://dangercord.com/) 
 - [Vaccinator Discord Community Server](https://discord.gg/amWd8zwTDj)
 - [Scam Recovery Center](https://discord.gg/recover)
-- []()
+- [and those we did not mention](and those we did not mention)
