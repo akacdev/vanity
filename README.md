@@ -10,8 +10,8 @@ This lists content comes from varouise indoviduals, Community Member and Interne
 
 ## Honerible Mentions
 
-- [Blacklister Project]()
+- [Blacklister Project](https://discord.gg/jQpvWepRz9)
 - [Dangercord Community Programe](https://dangercord.com/) 
-- [Vaccinator Discord Community Server]()
-- [Scam Recovery Center]()
+- [Vaccinator Discord Community Server](https://discord.gg/amWd8zwTDj)
+- [Scam Recovery Center](https://discord.gg/recover)
 - []()
