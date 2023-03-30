@@ -1,4 +1,113 @@
+# B# ----------------------------------------------------
+# mkdocs documentation
+/site
 
+# ----------------------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------------------------------
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ----------------------------------------------------
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# ----------------------------------------------------
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ----------------------------------------------------
+# PyBuilder
+target/
+
+# ----------------------------------------------------
+# pyenv
+.python-version
+
+# ----------------------------------------------------
+# dotenv environment variable files
+.env
+.env.dev
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+env.dev/
+# ----------------------------------------------------
+# Config Files
+dev.config.json
+test.config.json
+local.config.json
+config.json
+
+# ----------------------------------------------------
+# Excluded from upload
+
+*/__pycache__/*
+*/__pycache__
+__pycache__/*
+/__pycache__
+__pycache__/
+/__pycache__/
+
+# ----------------------------------------------------
+# Project Workspace
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------------------------------------
+# Hidden stuff
+.git
+cogs.new
+cogs.new/
+
+# ----------------------------------------------------
+# DB
+database.db
+cython_debug/
+
+# ----------------------------------------------------
+# Notes and Local_Backups
+.notes
+.backups
+
+# ----------------------------------------------------
+# Vanity.git Excluded files
+*/junk/*
+/junk/*
+*/junk/
 __pycache__/
 run.cpython-311.pyc
 tracking.txt
